@@ -1,0 +1,112 @@
+/*common css starts*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+/*common css ends*/
+/*header css starts*/
+header{
+	border-bottom: 2px solid #d1d1d16e;
+}
+.h-wrapper{
+	margin: 0 6%;
+	padding: 12px 0;
+	overflow: hidden;
+}
+.logo{
+	width: 10%;
+	float: left;
+}
+.logo img{
+	margin: 2px 0;
+}
+nav{
+	padding: 8.5px 0;
+	width: 40%;
+	float: right;
+}
+ul{
+	list-style-type: none;
+	text-align: right;
+}
+li{
+	color: #6e6e6e;
+	margin-left: 25px;
+	display: inline-block;
+}
+/*header css ends*/
+/*banner css starts*/
+.b-wrapper{
+	margin: 0 23.5%;
+	padding: 50px 0;
+	text-align: center;
+}
+.heading{
+	color: #0F2656;
+	font-size: 40px;
+	/*font-weight: 700;*/
+	line-height: 70px;
+	
+}
+.heading span{
+	color: #008AFF;
+}
+.b-wrapper p{
+	padding-top: 15px;
+	color: #0F2656;
+	font-size: 15px;
+}
+.b-wrapper img{
+	padding: 0 4.41067457375834%;
+}
+/*banner css ends*/
+/*about us css starts*/
+.about{}
+.a-wrapper{
+	margin: 0 15%;
+	overflow: hidden;
+}
+.sec1{
+	width: 50%;
+	text-align: right;
+	float: left;
+}
+.sec1 h2{
+	color: red;
+}
+.sec1 p{
+	color: #0F2656;
+}
+.sec2{
+	width: 50%;
+	float: right;
+}
+/*services starts*/
+.services{}
+.s-wrapper{
+	margin: 0 6%;
+	overflow: hidden;
+}
+.ser1{
+	width: 30%;
+	background-color: #FDEBED;
+	float: left;
+}
+.ser1 img{
+	padding: 0 17.8125px;
+	width: 90%;
+}
+.ser1 h2{
+	padding: 0 22px;
+	color: #0F2656;
+}
+.ser1 p{
+	padding: 0 22px;
+	color: #0F2656;
+}
+.ser2-mb{
+	margin: 0 59.3725px;
+	background-color: #EBF9F4;
+}
+/*services ends*/
